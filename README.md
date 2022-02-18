@@ -6,3 +6,6 @@ Consiste em um simples componente de QR Code feito com ReactJS e Chakra UI.
 
 ## Libs :open_book:
 
+#### :paperclip:
+[Vecsel](https://qrcode-guicoutost.vercel.app/)
+
