@@ -10,7 +10,6 @@ export const App = () => {
       flexDirection="column"
       justifyContent="center"
       alignItems="center"
-      backgroundColor="blue.50"
     >
       <Card />
       <Creator />

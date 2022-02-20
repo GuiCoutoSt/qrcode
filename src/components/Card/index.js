@@ -9,7 +9,7 @@ export const Card = () => {
   return (
     <MotionCard
       animate={{
-        y: [-5, 0],
+        y: [-100, 0],
         opacity: [0, 1],
       }}
       transition={{ duration: 1 }}

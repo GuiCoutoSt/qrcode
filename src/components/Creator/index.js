@@ -12,8 +12,7 @@ export const Creator = () => {
       }}
       transition={{ duration: 1 }}
       position="absolute"
-      bottom="0"
-      padding="10px"
+      bottom="5"
       alignItems="center"
       fontSize="sm"
     >
