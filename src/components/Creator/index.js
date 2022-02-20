@@ -11,9 +11,7 @@ export const Creator = () => {
         opacity: [0, 1],
       }}
       transition={{ duration: 1 }}
-      position="absolute"
-      bottom="5"
-      alignItems="center"
+      justifyContent="center"
       fontSize="sm"
     >
       <Text fontSize="xs">

@@ -5,15 +5,17 @@ import { Creator } from "./components/Creator";
 
 export const App = () => {
   return (
-    <Flex
-      h="100vh"
-      flexDirection="column"
-      justifyContent="center"
-      alignItems="center"
-    >
-      <Card />
+    <>
+      <Flex
+        h="95vh"
+        flexDirection="column"
+        justifyContent="center"
+        alignItems="center"
+      >
+        <Card />
+      </Flex>
       <Creator />
-    </Flex>
+    </>
   );
 };
 
